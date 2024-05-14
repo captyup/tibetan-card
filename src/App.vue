@@ -38,5 +38,18 @@ const items = [        {
         {
           title: '四元音',
           value: 'cardset-02',
-        },]
+        },
+        {
+          title: '下加',
+          value: 'cardset-03',
+        },
+        {
+          title: '上加',
+          value: 'cardset-04',
+        },
+        {
+          title: '上下加',
+          value: 'cardset-05',
+        },
+        ]
 </script>
